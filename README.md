@@ -2,7 +2,7 @@
 
 - 🐸 Tenho 16 anos, e estudo para ser um Desenvolvedor FullStack.
 - 🔭 Estou no 2°ano integrado de Desenvolvimento de Sistemas pelo CEEP Cascavel.
-- ⚡ Atualmente focado em aprender e aprimorar meus conhecimentos em Java.
+- ⚡ Atualmente focado em masterizar meus conhecimentos em Java e aprender o framework Spring.
 ## 
 <h3>Main Skills</h3>
 <div style="display: inline_block">

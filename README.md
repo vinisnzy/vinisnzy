@@ -1,7 +1,7 @@
 ## Prazer! meu nome é Vinícius 🐦‍🔥
 
-- 🐸 Tenho 16 anos, e estudo para ser um Desenvolvedor FullStack.
-- 🔭 Estou no 2°ano integrado de Desenvolvimento de Sistemas pelo CEEP Cascavel.
+- 🐸 Tenho 17 anos, e estudo para ser um Desenvolvedor FullStack.
+- 🔭 Estou no 3°ano integrado de Desenvolvimento de Sistemas pelo CEEP Cascavel.
 - ⚡ Atualmente focado em masterizar meus conhecimentos em Java e aprender o framework Spring.
 ## 
 <h3>Main Skills</h3>

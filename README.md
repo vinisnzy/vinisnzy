@@ -1,16 +1,15 @@
-## Prazer! meu nome é Vinícius 🐦‍🔥
+## Prazer! meu nome é Vinícius, e sou Desenvolvedor Backend 🐦‍🔥
 
-- 🐸 Tenho 17 anos, e estudo para ser um Desenvolvedor FullStack.
-- 🔭 Estou no 3°ano integrado de Desenvolvimento de Sistemas pelo CEEP Cascavel.
-- ⚡ Atualmente focado em masterizar meus conhecimentos em Java e aprender o framework Spring.
+- 🐸 Tenho apenas 17 anos, mas com muita ambição e vontade de aprender.
+- 🔭 Estou no 3°ano do EM integrado com Desenvolvimento de Sistemas pelo CEEP.
+- ⚡ Em busca da primeira oportunidade como Desenvolvedor Backend.
 ## 
 <h3>Main Skills</h3>
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 ## 
